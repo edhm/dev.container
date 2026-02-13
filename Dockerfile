@@ -1,5 +1,5 @@
 #
- #  SPDX-FileCopyrightText: 2025 Edgar Huerta Mendoza <ed.huerta.m@hotmail.com>
+ #  SPDX-FileCopyrightText: 2025 Edgar Huerta Mendoza ed.huerta.m@hotmail.com
  #  SPDX-FileCopyrightText:2025 @edhm
  #  SPDX-License-Identifier: MIT
 #
