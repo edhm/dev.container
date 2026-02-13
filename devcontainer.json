@@ -1,0 +1,21 @@
+/*
+ * SPDX-FileCopyrightText: 2025 Edgar Huerta Mendoza <ed.huerta.ml@hotmail.com>
+ * SPDX-FileCopyrightText: 2025 @edhm
+ * SPDX-License-Identifier: MIT
+ */
+{
+    "name": "React Portable",
+    "service": "react-dev",
+    "dockerComposeFile": "../docker-compose.yml",
+    "workspaceFolder": "/workspace",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "dsznajder.es7-react-js-snippets",
+          "dbaeumer.vscode-eslint",
+          "esbenp.prettier-vscode",
+          "bradlc.vscode-tailwindcss"
+        ]
+      }
+    }
+  }
